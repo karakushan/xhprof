@@ -47,7 +47,7 @@ sudo service php7.0-fpm restart
 
 ```bash
 cd path/to/your/site
-git clone 
+git clone https://github.com/karakushan/xhprof.git
 ```
 
 #### Подключаем xhprof в вашем проекте
